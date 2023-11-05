@@ -1,7 +1,7 @@
 ![Hey there!](https://user-images.githubusercontent.com/27951537/132129303-d006d025-9fe9-4d44-9959-093ee0517478.gif)
 
 ## Something About Me
-I'm a final year Information Systems undergraduate from National University of Singapore and I aspire to become a full-stack developer! I enjoy building applications that focus on making a meaningful impact on users, while keeping flexibility and minimalism in mind.
+I'm a full-stack developer and I enjoy building applications that focus on making a meaningful impact on users, while keeping flexibility and minimalism in mind.
 
 You can reach me at risheng17@gmail.com OR 
 <br>
